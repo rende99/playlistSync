@@ -1,4 +1,5 @@
 **/node_modules
 *.env
 *.p8
-playlistsyncYoutube.json
+**/playlistsyncYoutube.json
+**/AuthKey.p8
