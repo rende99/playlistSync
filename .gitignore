@@ -1,2 +1,4 @@
 **/node_modules
 *.env
+*.p8
+playlistsyncYoutube.json
